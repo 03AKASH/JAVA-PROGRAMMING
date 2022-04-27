@@ -1,3 +1,4 @@
+//Perform string manipulations
 import java.util.Scanner;
 class StringManip{
 public static void main(String[] args) {
