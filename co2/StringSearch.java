@@ -1,4 +1,5 @@
- import java.util.Scanner;
+//Search an element in an array.
+import java.util.Scanner;
 class StringSearch {
 public static void main(String[] args)
  {
