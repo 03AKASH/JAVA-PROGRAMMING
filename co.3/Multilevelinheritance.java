@@ -1,3 +1,4 @@
+//2.	Create a class ‘Employee’ with data members Empid, Name, Salary, Address and constructors to initializethe data members. Create another class ‘Teacher’ that inherits the properties of class employees and contains its own data members department, Subjects taught and constructors to initialize these data members and also include a display function to display all the data members. Use an array of objects to display details of N teachers
 import java.util.*;
 class Employee
 {
